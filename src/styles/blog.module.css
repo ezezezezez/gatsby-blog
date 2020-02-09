@@ -1,0 +1,20 @@
+.blog-list {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+.blog-list-item {
+  padding: 20px;
+  padding-left: 5px;
+  display: block;
+  transition: 0.3s;
+}
+.blog-list-item:hover {
+  background-color: rgb(240, 240, 240);
+}
+
+.date {
+  font-style: italic;
+  font-size: 0.8rem;
+  margin-top: 10px;
+}
